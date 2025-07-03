@@ -27,16 +27,6 @@ A file-based Student Management System built using **C++** and **Object-Oriented
 - OOP Concepts (Classes, Objects, Encapsulation)
 - Command-line Interface (CLI)
 
----
-
-## 📂 Project Structure
-student-management-system/
-│
-├── main.cpp # Main menu and control flow
-├── Student.h/.cpp # Student class and methods (optional split)
-├── data.txt # File where student data is stored
-├── README.md # Project documentation
-
 
 📌 Future Enhancements
 GUI version using Qt or SFML
